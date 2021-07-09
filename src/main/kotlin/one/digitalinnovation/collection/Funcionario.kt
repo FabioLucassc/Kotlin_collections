@@ -1,4 +1,4 @@
-package one.digitalinnovation.collections
+package one.digitalinnovation.collection
 
 data class Funcionario(
     val nome: String,

@@ -1,4 +1,4 @@
-package one.digitalinnovation.collections
+package one.digitalinnovation.collection
 
 fun main() {
     val joao = Funcionario("Joao", 2000.0, "CLT")
